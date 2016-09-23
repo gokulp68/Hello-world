@@ -1,2 +1,2 @@
 # Hello-world
-knowing repository
+knowing repository.iam beggining with git hub
